@@ -11,3 +11,4 @@
 - [x] [CitiesOfTheWorld](https://github.com/Nun0Santos/CitiesOfTheWorld)<br>
 - [x] [Shape-Recognition-Network](https://github.com/Nun0Santos/Shape-Recognition-Network)<br>
 - [x] [PortoMarinho](https://github.com/Nun0Santos/PortoMarinho)<br>
+- [x] [Ultimate-Tic-Tac-Toe](https://github.com/Nun0Santos/Ultimate-Tic-Tac-Toe)<br>
