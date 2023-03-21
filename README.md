@@ -12,3 +12,5 @@
 - [x] [Shape-Recognition-Network](https://github.com/Nun0Santos/Shape-Recognition-Network)<br>
 - [x] [PortoMarinho](https://github.com/Nun0Santos/PortoMarinho)<br>
 - [x] [Ultimate-Tic-Tac-Toe](https://github.com/Nun0Santos/Ultimate-Tic-Tac-Toe)<br>
+- [x] [IC-Project](https://github.com/Nun0Santos/IC-Project.git)<br>
+- [x] [Rental4You](https://github.com/Nun0Santos/Rental4You.git)<br>
